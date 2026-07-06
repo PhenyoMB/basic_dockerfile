@@ -34,6 +34,6 @@ Free to use for learning.
 1. Create a new file named **`README.md`** in the same folder as your `Dockerfile`.
 2. Paste the text above into it and save.
 3. In the terminal, run:
-   -git add README.md
-   -git commit -m "Add README"
-   -git push
+   - git add README.md
+   - git commit -m "Add README"
+   - git push
