@@ -3,7 +3,5 @@
 #Starting with alpine base image
 FROM alpine:latest 
 
-#Set working directory inside container
-#WORKDIR /app
-
+#What runs when container starts
 CMD ["echo", "Hello, Captain!"]
