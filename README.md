@@ -2,6 +2,8 @@
 
 A simple Docker project that prints "Hello, Captain!" using an Alpine Linux image.
 
+This project is a solution to the [Basic Dockerfile](https://roadmap.sh/projects/basic-dockerfile) challenge on roadmap.sh.
+
 ## What it does
 
 When you run the container, it outputs `Hello, Captain!` and exits.
